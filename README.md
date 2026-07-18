@@ -1,6 +1,6 @@
 ## Ratings of Country 
 Shows the safety of countries. 
-**This README covers tech stack, licensing, and a quick preview.** 
+**This README covers tech stack, API info, licensing, and a quick preview.** 
 
 Before we start, when using the website **DATA MAY BE INACCURATE, PLEASE TRIPLE CHECK NOT JUST ON MY WEBSITE, BUT OTHER TRUSTED SOURCES FOR LATEST DATA BEFORE EVEN THINKING ABOUT GOING.**
 
@@ -12,6 +12,10 @@ The tech stack is:
 * CSS (inline)
 * JS (inline)
 * JSON file for data
+
+## API
+While we don't offer a direct API, you can download `ratings.json` and use it as per the terms of the MIT license.    
+
 
 ## License
 
